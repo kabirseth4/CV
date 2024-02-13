@@ -1,117 +1,89 @@
-# Kabir Seth - Software Developer
+<h1 align="center">Hi 👋, I'm Kabir</h1>
+<h3 align="center">A software engineer with a passion for teaching</h3>
 
-## Career Summary
-Two positions: Intern at a small software house and Software Engineer at a large banking group. Multiple accreditations including Web Programming from Harvard’s CS50.
-|               |                                                                                              |
-|---------------|----------------------------------------------------------------------------------------------|
-| Languages     | **JavaScript**, **Python**, **HTML**, **CSS**, TypeScript, Kotlin, Swift.                    |
-| Tools         | Visual Studio, Django, Pega Systems, Postman, GitHub, Git, CLI, Jira, Android Studio, Xcode. |
-| Methodologies | Agile, Scrum, Test-Driven Development, Pair Programming, CI/CD.                              |
+- 🔭 I’m currently working on [Deck of Fire](https://github.com/kabirseth4/deck-of-fire-client)
 
-## Experience
+- 🌱 I’m currently learning **Next.js, TypeScript, React Native**
 
-**Lloyds Banking Group**  
-*Pega Software Engineer*  
-*11/2022 – Present*  
+- 👯 I’m collaborating on [Ideation Studio](https://github.com/afyqzarof/studio-client)
 
-**Technologies:** Pega Systems, HTML, CSS, Postman
+- 📫 How to reach me **kabirseth4@gmail.com**
 
-- Part of a 12-person team designing and developing automated solutions for business process management.
-- Learned new technologies from scratch through self-guided online training and proactive team participation.
-- Releasing features and bug fixes as part of 2-week sprints, with a personal contribution of ~10% per sprint.
-- Collaborating with cross-functional teams including Business Analysts, Quality Assurance, and other development teams.
-- Utilised Scrum methodologies, attending daily stand-up meetings, sprint plannings, and retrospectives.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+	<a href="https://linkedin.com/in/https://www.linkedin.com/in/kabirseth4/" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kabirseth4/" height="30" width="40" />
+	</a>
+</p>
 
-**Softwire**  
-*Intern Software Developer*  
-*06/2021 – 08/2021*  
+<h3 align="left">Languages and Tools:</h3>
 
-**Technologies:** TypeScript, Kotlin, Swift, XML, Android Studio, YAML, Xcode, Postman, GitHub, Git
+<h4>Frontend</h4>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="50"/>
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>
+	</a>
+	<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/>
+	</a>
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/>
+	</a>
+	<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="html5" height="45"/>
+	</a>
+</p>
 
-- Part of a 6-person intern development team, building a feature for the iOS and Android mobile apps of major UK rail company LNER.
-- Developed API endpoints using TypeScript, shared back-end logic using Kotlin and Swift, and front-end UI using XML, Android Studio, and Xcode.
-- Utilised Agile workflow and participated in Test-Driven Development and Pair-Programming, as well as conducting regular peer code reviews and testing.
-- Interacted directly with the clients while giving demonstrations of new features.
+<h4>Backend</h4>
+<p align="left">
+	<a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer">
+		<img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="node.js" height="50"/>
+	</a>
+	<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+		<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express.js" height="50" />
+	</a>
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+		<img src="https://assets.stickpng.com/images/62debc4fff3c6e4b8b5de8d3.png" alt="node.js" height="50" />
+	</a>
+	<a href="https://knexjs.org/" target="_blank" rel="noreferrer">
+		<img src="https://static-00.iconduck.com/assets.00/knex-js-icon-2048x2048-l5vf0s33.png" alt="knex.js" height="50" />
+	</a>
+	<a href="https://heroku.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="50"/>
+	</a>
+</p>
 
-**Cypher Coding**  
-*Lead Teacher*  
-*04/2018 – 02/2021*  
+<h4>Other</h4>
+<p align="left">
+	<a href="https://www.python.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/>
+	</a>
+	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+		<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="50"/>
+	</a>
+</p>
 
-- Led computer programming camps for children aged 4-14, managing a team of up to six assistant teachers.
-- Represented the company while interacting with parents and at conventions.
+<h4>Tools</h4>
+<p align="left">
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
+	</a>
+	<a href="https://postman.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/>
+	</a>
+	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" height="50" />
+	</a>
+	<a href="https://jestjs.io" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/>
+	</a>
+</p>
 
-## Education
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirseth4&show_icons=true&locale=en&layout=compact" alt="kabirseth4" />
+</p>
 
-**The University of Edinburgh**  
-*2018 – 2022*  
-
-- Chemistry BSc (Hons), 2:1 
-
-**St Paul’s School**  
-*2012 – 2017*  
-
-- A Levels: Maths, Chemistry, Physics – A*AA
-- GCSEs: 5 A*s, 5 As
-
-## Accreditations
-
-**Udemy** – The Web Developer Bootcamp 2023 (In Progress)  
-
-**CS50** – Web Programming with Python and JavaScript (10/2023)  
-
-**freeCodeCamp** – 2 Certifications (10/2022 – 01/2023)
-  - Responsive Web Design
-  - JavaScript Algorithms and Data Structures
-
-## Projects
-
-### Simsify
-*08/2023 – Present*  
-
-**Technologies:** Django, Python, JavaScript, HTML, CSS, Git, Jira
-
-- Habit tracking web app based on The Sims game franchise by EA. Submitted as the final project for CS50’s Web Programming with Python and JavaScript.
-- Utilised Django framework to build server-side logic using Python and front-end using JavaScript, HTML, and CSS.
-- Planned and executed project using Agile methodologies, creating a Kanban board on Jira and writing Epics, Tasks, and Sub-tasks to keep track of project scope and progress.
-
-### CS50 Web Projects
-*05/2023 – 08/2023*  
-
-**Project 0 – Search**  
-**Technologies:** HTML, CSS, Git
-
-- Built a rudimentary “search engine” based on Google using HTML forms. Included Image and Advanced search pages that redirected to the respective Google search results.
-- Focus on basic HTML and CSS concepts.
-
-**Project 1 – Wiki**  
-**Technologies:** Django, Python, HTML, CSS, Git, Markdown
-
-- Built an encyclopaedia of Markdown files using the Django framework. Users are able to read, write, and edit entries, as well as search for entries based on title and content.
-- Focus on building server-side logic and integrating with basic UI.
-
-**Project 2 – Commerce**  
-**Technologies:** Django, Python, HTML, CSS, Git
-
-- Built an e-commerce website emulating eBay’s auction functionality, allowing users to post auction listings, place bids on listings, comment on listings, and add listings to a watchlist. All active listings can be viewed on the homepage, or filtered by category.
-- Focus on utilising Django’s SQLite models to store data, including Users, Listings, and Bids.
-
-**Project 3 – Mail**  
-**Technologies:** Django, JavaScript, HTML, CSS, Git, JSON
-
-- Designed a front-end for an email client that makes API calls to send and receive emails. Users are able to compose and reply to emails, as well as view their inbox, sent emails, and archived emails.
-- Focus on building a single-paged web app with a clean UI and working with API endpoints.
-
-**Project 4 – Network**  
-**Technologies:** Django, Python, JavaScript, HTML, CSS, Git, JSON
-
-- Designed a Twitter-like social network website. Users can make and like posts, as well as edit their own posts. Users can also follow other users and view their profiles to see post history and follower count. Posts can be viewed from the homepage, or be filtered by following.
-- Focus on learning how to write tests and utilise TDD.
-
-## Contact
-Email: kabirseth4@gmail.com  
-Phone: +44 7446 182989  
-
-## Links
-LinkedIn: [linkedin.com/in/kabirseth4](https://www.linkedin.com/in/kabirseth4)  
-GitHub: [github.com/kabirseth4](https://github.com/kabirseth4)  
-freeCodeCamp: [freecodecamp.org/kabirseth4](https://www.freecodecamp.org/kabirseth4)
+![Codewars](https://github.r2v.ch/codewars?user=kabirseth4&theme=light&stroke=gray)
