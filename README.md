@@ -3,18 +3,11 @@
 
 - 🔭 I’m currently working on [Deck of Fire](https://github.com/kabirseth4/deck-of-fire-client)
 
-- 🌱 I’m currently learning **Next.js, TypeScript, React Native**
-
 - 👯 I’m collaborating on [Ideation Studio](https://github.com/afyqzarof/studio-client)
 
-- 📫 How to reach me **kabirseth4@gmail.com**
+- 🌱 I’m currently learning **Next.js, TypeScript, React Native**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://linkedin.com/in/https://www.linkedin.com/in/kabirseth4/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kabirseth4/" height="30" width="40" />
-	</a>
-</p>
+- 📫 Reach out to me on **[LinkedIn](https://linkedin.com/in/kabirseth4)**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -50,8 +43,6 @@
 	<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/></a>
 </p>
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirseth4&show_icons=true&locale=en&layout=compact" alt="kabirseth4" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirseth4&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=kabirseth4&theme=light&stroke=gray)
+![Codewars](https://github.r2v.ch/codewars?user=kabirseth4&theme=gradient&top_languages=true)
