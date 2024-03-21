@@ -50,5 +50,4 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirseth4&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Codewars](https://github.r2v.ch/codewars?user=kabirseth4&theme=gradient&top_languages=true)
